@@ -6,4 +6,4 @@ Purpose of the notebook is just to beat fool 101 research paper https://data.vis
 
 `Target accuracy - 77.25%`
 
-`Result accuracy - 78.38% (with 10 epochs and no overfitting data indicating it can be improved if trained for longer)`
+`Result accuracy - 78.38% (with 10 epochs and no overfitting data indicating it can be improved drastically if trained for longer)`
