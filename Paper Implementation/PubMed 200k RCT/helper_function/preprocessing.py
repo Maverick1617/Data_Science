@@ -63,3 +63,6 @@ def get_raw_data(filename):
             content += line
     return data
 
+
+def split_chars(string):
+    return " ".join(list(string))
