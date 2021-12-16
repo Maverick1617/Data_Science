@@ -11,12 +11,12 @@ The model summarizes a large document into five categorical classes (Background,
 
 **There are four models trained for each separate part of the model and one combined (complete replica) model-**
 
-* Model 0 - This model is a baseline model for comparing other model progress.
-* Model 1 - This model replicates the token embedding model from the research paper.
-* Model 2  - This model is same as "Model 1" but with transfer learning for token vectorization (tfh model - https://tfhub.dev/google/universal-sentence-encoder/4)
-* Model 3  - This model replicates the character embedding model from the research paper.
-* Model 4 - This model concatenate model 3 and 2  and trains upon them ( the lower part of the model).
-* Model 5 - The complete replica of the model architecture ( https://arxiv.org/pdf/1612.05251.pdf ).
+* Model 0 - This model is a baseline model for comparing other model progress `(Accuracy 71.66%)`.
+* Model 1 - This model replicates the token embedding model from the research paper `(Accuracy 75.35%)`.
+* Model 2  - This model is same as "Model 1" but with transfer learning for token vectorization (tfh model - https://tfhub.dev/google/universal-sentence-encoder/4) `(Accuracy 76.49%)`.
+* Model 3  - This model replicates the character embedding model from the research paper `(Accuracy 74.01%)`.
+* Model 4 - This model concatenate model 3 and 2  and trains upon them ( the lower part of the model) `(Accuracy 74.013%)`.
+* Model 5 - The complete replica of the model architecture ( https://arxiv.org/pdf/1612.05251.pdf ) `(Accuracy 86.30%)`.
 
 
 ## Credits
