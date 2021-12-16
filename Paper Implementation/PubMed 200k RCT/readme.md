@@ -5,7 +5,7 @@ link - https://arxiv.org/abs/1710.06071
 This notebook is a replica model of the research PubMed 200k RCT.
 The model summarizes a large document into five categorical classes (Background, Methods, Objectives, Conclusion, and Result) making the document easier to read.
 
-`For further details or research work read` https://arxiv.org/pdf/1710.06071.pdf
+`For further details or research works read` https://arxiv.org/pdf/1710.06071.pdf
 
 ## Contents 
 
