@@ -10,6 +10,7 @@ The model summarizes a large document into five categorical classes (Background,
 ## Contents 
 
 **There are four models trained for each separate part of the model and one combined (complete replica) model-**
+`Epochs - 10, Model [0, 1, 2, 3, 4] trained on 10% of data, Model 5 trained on full dataset.`
 
 * Model 0 - This model is a baseline model for comparing other model progress `(Accuracy 71.66%)`.
 * Model 1 - This model replicates the token embedding model from the research paper `(Accuracy 75.35%)`.
