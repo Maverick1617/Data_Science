@@ -20,7 +20,7 @@ The model summarizes a large document into five categorical classes (Background,
 
 
 ## Credits
-`Thanks to` 
+**Thanks to**
 * Franck Dernoncour MIT francky@mit.edu 
 * Ji Young Lee MIT jjylee@mit.edu
 * Peter Szolovits MIT psz@mit.edu
