@@ -3,7 +3,7 @@
 ### gradient_descent_sample.py output - 
 
 ```python
-# just a sample code out puts
+# outputs
 
 """
 Epoch 1 ,Error:  0.41572985510220245
